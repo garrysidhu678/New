@@ -5,7 +5,7 @@ import zipfile
 import tempfile
 import os
 
-BOT_TOKEN = "YOUR_BOT_TOKEN"
+BOT_TOKEN = "7894633525:AAGH3Vf6H6ReAZ13a04FDCfIYW6QqfWLnd8"
 TELEGRAM_API = f"https://api.telegram.org/bot{BOT_TOKEN}"
 
 app = Flask(__name__)
